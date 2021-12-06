@@ -16,7 +16,3 @@ Projeto de modelagem e análise exploratória de dados com o objetivo de identif
 ### Metodologia
 
 A base da pesquisa foi um conjunto de dados de 2240 clientes de uma empresa, ao qual foram aplicados métodos estatísticos através da linguagem de programação *Python* para analisar a personalidade consumidora do cliente, modelar predições de comportamento  perante a organização e agrupar em comunidades para aprimorar as estratégias de marketing a cada público específico. Esses públicos serão definidos por meio de um algoritmo de aprendizagem de máquina não supervisionada, denominado k-means, e posteriormente serão treinados modelos de aprendizagem de máquina supervisionada: árvore de decisão (também conhecido como *Decision Tree*) e *SVM* (*Support Vector Machine*), capazes de prever o grupo de novos indivíduos. O projeto foi implementado em um *Jupyter Notebook*.
-
-### Análise exploratória dos dados
-
-Os gráficos gerados na seção de Análise Exploratória dos Dados estão armazenados na pasta `Gráficos`. Os insights gerados sobre sua análise podem ser visualizados no *Jupyter Notebook* deste projeto, sob `Analise-de-Personalidade-de-Consumo.ipynb`
